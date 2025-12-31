@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Luxury Estate Comparison - Lotte Castle Forest",
+  "description": "A high-end real estate photo management and comparison platform featuring categorized image galleries and a dynamic comparison slider.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
